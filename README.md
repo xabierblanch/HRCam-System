@@ -16,7 +16,7 @@ Image:
 Usage
 -----
 
-* [HRCam_UB_v4.py](HRCam_UB_v4.py) -> Main code
+* [HRCam_UB_v4.py](HRCam_UB_v4.py) -> Main code (executes camera control and photo uploading)
 
 Raspberry auxiliary codes (sh format)
 
