@@ -12,15 +12,15 @@ ID = "HRCam4_"
 #########################################################################
 
 if ID == "HRCam1_":
-    TOKEN = "XAM6jFayu0AAAAAAAAAuUYxdjT1lVoesvD6MURwDlXe9ry7lLLs0YCwpwyHVW-7f"
+    TOKEN = "TOKEN"
 elif ID == "HRCam2_":
-    TOKEN = "XAM6jFayu0AAAAAAAAAuU1Z--dM0pzJhnMdHCXSbOLPXwkFnvxj_ztZSjlKg01vj"
+    TOKEN = "TOKEN"
 elif ID == "HRCam3_":
-    TOKEN = "XAM6jFayu0AAAAAAAAAuUsvD7VjX9tnBJuPWmsy1vPhIOToaQYMV0TbiiKu81HcD"
+    TOKEN = "TOKEN"
 elif ID == "HRCam4_":
-    TOKEN = "XAM6jFayu0AAAAAAAAAuVADgtqXxXqB_M_tZ0D9hUQ_Z5xNS8rthg2AsxcMm5rke"
+    TOKEN = "TOKEN"
 elif ID == "HRCam5_":
-    TOKEN = "XAM6jFayu0AAAAAAAAAuVQYnVMNUaW_0G8R6b9ITyhwWSf9e8YRg-s-XoK7Invpz"
+    TOKEN = "TOKEN"
 
 arrel_directori = '/home/pi/log_on/'
 
